@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+
+body {
+	font-size: 16px;
+	margin: 0px;
+	background-color: rgb(245, 245, 245);
+}
+
+h1, h2, h3 {
+	font-weight: bold;
+	font-family: 'Lexend';
+	font-size: 24px;
+}
+
+
+p {
+	font-size: 20px;
+	font-family: 'Lexend';
+	padding: 20px;
+}
+
+
